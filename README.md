@@ -1,4 +1,4 @@
-[results.pdf](https://github.com/user-attachments/files/21381651/results.pdf)# Crisis-Capital-How-COVID-19-Rewired-Sectoral-Resilience-and-Stock-Market-Dynamics
+# Crisis-Capital-How-COVID-19-Rewired-Sectoral-Resilience-and-Stock-Market-Dynamics
 
 This project investigates the impact of the COVID-19 pandemic on the U.S. stock market, with a focus on sector-level divergence, 
 volatility dynamics, and overall market resilience from 2019 to 2025.
