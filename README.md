@@ -16,12 +16,6 @@ All relevant code and output are included in the following files:
 - [results.ipynb](myLib/results.ipynb)
 - [results.pdf](myLib/results.ipynb)
 
-## Project Overview
-- Analyzed historical stock price data retrived via 'yfinance', covering S&P 500 sectors before and after the COVID-19 outbreak.
-- Led **model structuring**, **data transformation**, and **result interpretations**.
-- Focused on visualizing macro market recovery, sector-specific shifts, and volatility variations.
-- Presented findings through graphs and descriptive analysis.
-
 ## Tools & Methods
 - **Language:** Python (Jupyter Notebook - via Anaconda)
 - **Packages:** 'pandas', 'numpy', 'matplotlib.pyplot', 'seaborn', 'yfinance'
