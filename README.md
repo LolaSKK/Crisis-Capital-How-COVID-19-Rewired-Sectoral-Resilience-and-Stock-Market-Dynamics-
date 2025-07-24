@@ -21,4 +21,5 @@ All relevant code and output are included in the following files:
 - **Packages:** 'pandas', 'numpy', 'matplotlib.pyplot', 'seaborn', 'yfinance'
 
 ## Attribution
-This project was completed collaboratively as part of an academic assignment for **STA141B (Data & Web Technologies for Data Analysis)** at UC Davis.
+This project was completed collaboratively as part of an academic assignment for **STA141B (Data & Web Technologies for Data Analysis)** at UC Davis. This repository highlights my 
+individual contributions to statistical analysis.
